@@ -20,7 +20,7 @@ while(n>0)
 }
 if(m==sum)
 {
-    printf("fuck the number is pallindromic");
+    printf(" the number is pallindromic");
 
 }
 else{
